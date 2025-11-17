@@ -1,0 +1,5 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Cards prod yaml file"
