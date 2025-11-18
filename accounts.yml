@@ -1,5 +1,5 @@
 build:
-  version: "15.0"
+  version: "7.0"
 
 accounts:
   message: "Accounts default yaml file"
